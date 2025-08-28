@@ -1,0 +1,5 @@
+{
+  "/api/youtube-feed/route": "app/api/youtube-feed/route.js",
+  "/page": "app/page.js",
+  "/video/[id]/page": "app/video/[id]/page.js"
+}
